@@ -1,3 +1,3 @@
 # Demo
 
-Learn Git, Github, and Terraform with Azure.
+Learn Git, Github, and Terraform with Azure!
